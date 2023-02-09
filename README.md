@@ -1,4 +1,4 @@
-![Banner](https://media.discordapp.net/attachments/786213920917422130/1073243526063738951/jolyne2.png?width=1119&height=573)
+![Banner](https://cdn.discordapp.com/attachments/786213920917422130/1073248097045585920/jolyne3.png)
 # Bem vindos a aula de Programação Front-End 🤰💻
 👋 Olá, este é meu repositório para as aulas de Programação Front-End do 2° Ano ^^
 
